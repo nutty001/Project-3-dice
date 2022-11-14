@@ -40,7 +40,11 @@ img {
   font-weight: 400;
   font-family: cursive;
   padding: .5rem 1rem;
-  background: #106b4e;
+  background: #34c394;
+}
+
+.refresh-btn:hover{
+  background-color: #106b4e ;
 }
 
 .reload{
