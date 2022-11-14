@@ -1,1 +1,1 @@
-# Project-3-dice
+# Project-3.github.io
